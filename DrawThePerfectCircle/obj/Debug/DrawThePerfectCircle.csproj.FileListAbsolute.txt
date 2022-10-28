@@ -1,7 +1,0 @@
-C:\Codes\DrawThePerfectCircle\DrawThePerfectCircle\bin\Debug\DrawThePerfectCircle.exe.config
-C:\Codes\DrawThePerfectCircle\DrawThePerfectCircle\bin\Debug\DrawThePerfectCircle.exe
-C:\Codes\DrawThePerfectCircle\DrawThePerfectCircle\bin\Debug\DrawThePerfectCircle.pdb
-C:\Codes\DrawThePerfectCircle\DrawThePerfectCircle\obj\Debug\DrawThePerfectCircle.csproj.AssemblyReference.cache
-C:\Codes\DrawThePerfectCircle\DrawThePerfectCircle\obj\Debug\DrawThePerfectCircle.csproj.CoreCompileInputs.cache
-C:\Codes\DrawThePerfectCircle\DrawThePerfectCircle\obj\Debug\DrawThePerfectCircle.exe
-C:\Codes\DrawThePerfectCircle\DrawThePerfectCircle\obj\Debug\DrawThePerfectCircle.pdb
