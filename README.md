@@ -2,6 +2,8 @@ Someone challenged me to beat his score in the draw the perfect circle site. I w
 
 This was my first time I utilized user32.dll in any project so that will be in the very least interesting to see how it will come of use in future projects.
 
-To use this you just run it, go to the tab where you want to draw the circle, press the spacebar and immediately after hold down the left mouse button.
+To use this you just run it, go to the tab where you want to draw the circle and press the spacebar.
 
-At most I got 99.5%, but usually you get 99.4%. I am not too interested in going for a better score so I will leave it at that.
+At first the program scored up to 99.5%, but now it will achive me 99.9%
+
+This program is hard-coded for 1920x1080 monitors, it will not work on monitors with smaller or larger resolutions without modification.
